@@ -1,0 +1,10 @@
+.env
+credentials.json
+token.json
+token_ga4.pickle
+token_gsc.pickle
+*.pickle
+venv/
+__pycache__/
+*.pyc
+output/
