@@ -152,7 +152,7 @@ seo-reporting-agent/
 ## 👩‍💻 Built By
 
 **Richa Naik** — SEO Team Lead & AI Agent Builder  
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://richa-portfolio-ochre.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/richanaik777/) | [Portfolio](https://richa-portfolio-ochre.vercel.app/)
 
 ---
 
